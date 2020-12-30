@@ -4,3 +4,4 @@ ipympl
 ipyvolume
 scipy
 voila
+pillow 
