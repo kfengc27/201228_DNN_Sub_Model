@@ -12,7 +12,6 @@ autobahn==20.4.2
 Automat==0.7.0
 autopep8==1.5.4
 backcall==0.2.0
-beautifulsoup4==4.9.3
 bleach==3.2.1
 bs4==0.0.1
 cachetools==4.1.1
@@ -75,8 +74,6 @@ notebook==6.1.5
 numpy==1.18.5
 oauthlib==3.1.0
 opt-einsum==3.3.0
-otree==3.2.7
-otree-tools==1.1.15
 packaging==20.4
 pandas==1.1.4
 pandocfilters==1.4.3
@@ -85,7 +82,6 @@ parso==0.7.1
 patsy==0.5.1
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==8.0.1
 prometheus-client==0.9.0
 prompt-toolkit==3.0.8
 Protego==0.1.16
