@@ -1,3 +1,4 @@
+ipywidgets
 bqplot
 ipympl
 ipyvolume
