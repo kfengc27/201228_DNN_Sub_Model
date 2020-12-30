@@ -1,6 +1,5 @@
 matplotlib
 ipywidgets
-pandas
 tensorflow
 numpy
 ipython
