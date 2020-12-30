@@ -11,7 +11,6 @@ matplotlib
 ipywidgets
 pandas
 tensorflow
-time
 numpy
 ipython
 
